@@ -1,4 +1,6 @@
-# final project group 24 - Bikeduino
+# Bikeduino
+
+Used ATmega328P on arduino with implementation in C
 
 Link to Devpost -> [Bikeduino Devpost](https://devpost.com/software/bikeduino?ref_content=my-projects-tab&ref_feature=my_projects)
 
